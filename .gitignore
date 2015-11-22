@@ -1,5 +1,8 @@
 *.class
 
+# Mac OS stuff
+.DS_Store
+
 # IntelliJ files
 *.ipr
 *.iml
