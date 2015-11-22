@@ -1,5 +1,18 @@
 *.class
 
+# IntelliJ files
+*.ipr
+*.iml
+*.iws
+
+# Gradle files
+.gradle
+gradle
+build
+
+# Emacs back-ups
+*~
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
