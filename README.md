@@ -15,7 +15,7 @@ In order to evolve and revolutionize _what_ we do as software engineers, we need
 
 ## Pair Programming and TDD in Action
 
-To give you a better idea of what Pair Programming and TDD are all about, I'm going to pair with someone to develop a solution to the simple [FizzBuzz code kata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz).  My coding partner and I will implement it in Java using the IntelliJ IDE, the gradle build system, and the JUnit and hamcrest testing libraries.  We'll publish our solution to a public GitHub repository that you can clone or fork.  If you're not not familiar with git, you can [download the source code as a zip file](https://github.com/DavidWhitlock/PairingAndTddNov2015/archive/master.zip).
+To give you a better idea of what Pair Programming and TDD are all about, I'm going to pair with someone to develop a solution to the simple [FizzBuzz code kata](http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz).  My coding partner and I will implement it in Java using the [IntelliJ IDEA IDE](https://www.jetbrains.com/idea/), the [gradle](http://gradle.org/) build tool, and the [JUnit](http://junit.org/) and [hamcrest](http://hamcrest.org/JavaHamcrest/) testing libraries.  We'll publish our solution to a public [GitHub repository](https://github.com/DavidWhitlock/PairingAndTddNov2015) that you can clone or fork.  If you're not not familiar with git, you can [download the source code as a zip file](https://github.com/DavidWhitlock/PairingAndTddNov2015/archive/master.zip).
 
 ```
 $ git clone git@github.com:DavidWhitlock/PairingAndTddNov2015.git
