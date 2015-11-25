@@ -14,6 +14,14 @@ public class TennisGameTest {
     assertThat(score, equalTo(createScore(0,0)));
   }
 
+  @Test
+  public void serverScoreIsFifteenZero() {
+    TennisGame game = new TennisGame();
+    game.serverScores();
+    Pair<Integer, Integer> score = game.getScore();
+    assertThat(score, equalTo(createScore(15,0)));
+  }
+
   private Pair<Integer, Integer> createScore(int a, int b) {
     return new Pair<Integer, Integer>(a,b);
   }
