@@ -40,3 +40,6 @@ $ ./gradlew idea
 
 I'm interested to hear your about your initial thoughts about and experiences with pair programming and TDD.  Let's conclude tonight's session with a discussion of what you've seen, what you like, and what you didn't like.
 
+## Relive the Magic
+
+Jason and David recorded their Pair Programming and TDD live coding and put it on the [YouTube](https://youtu.be/Q8xF5ooQ1ZY).  Thank you to everyone who attended!
