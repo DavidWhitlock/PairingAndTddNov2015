@@ -4,7 +4,7 @@ Introducing Pair Programming and Test Driven Development to the Portland State U
 
 ## Who are these guys?
 
-I'm @DavidWhitlock and I teach the [Advanced Java Programming](http://web.cecs.pdx.edu/~whitlock/) course at Portland State University.  During the day, I lead Teams at [Tripwire](http://www.tripwire.com/) in downtown Portland.  I'm also a member of the Steering Committee for the [PCEP internship program](https://www.pdx.edu/computer-science/pcep-internship) at PSU.
+I'm David Whitlock and I teach the [Advanced Java Programming](http://web.cecs.pdx.edu/~whitlock/) course at Portland State University.  During the day, I lead Teams at [Tripwire](http://www.tripwire.com/) in downtown Portland.  I'm also a member of the Steering Committee for the [PCEP internship program](https://www.pdx.edu/computer-science/pcep-internship) at PSU.
 
 ## Learning about Pair Programming and TDD
 
