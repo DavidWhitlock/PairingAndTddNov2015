@@ -11,10 +11,20 @@ public class TennisGame {
   }
 
   public void serverScores() {
-    serverScore = 15;
+    serverScore = incrementScore(serverScore);
   }
 
   public void returnerScores() {
-    returnerScore = 15;
+    returnerScore = incrementScore(returnerScore);
+  }
+
+  private int incrementScore(int score) {
+    if (score == 0) {
+      score = 15;
+    } else if (score == 15) {
+      score = 30;
+    }
+
+    return score;
   }
 }
