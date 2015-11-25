@@ -1,7 +1,9 @@
 package edu.pdx.acm.tennis;
 
+import com.sun.tools.javac.util.Pair;
+
 public class TennisGame {
-  public static int echo(int echo) {
-    return echo;
+  public Pair<Integer, Integer> getScore() {
+    return new Pair<Integer, Integer>(0, 0);
   }
 }
