@@ -6,6 +6,10 @@ Introducing Pair Programming and Test Driven Development to the Portland State U
 
 I'm David Whitlock and I teach the [Advanced Java Programming](http://web.cecs.pdx.edu/~whitlock/) course at Portland State University.  During the day, I lead Teams at [Tripwire](http://www.tripwire.com/) in downtown Portland.  I'm also a member of the Steering Committee for the [PCEP internship program](https://www.pdx.edu/computer-science/pcep-internship) at PSU.
 
+I'm Jason Owen, and I graduated from PSU with my bachelor's in computer
+science.  I was part of the CAT, part of the first group of PCEP interns, and
+now work as a software engineer at Tripwire.
+
 ## Learning about Pair Programming and TDD
 
 In order to evolve and revolutionize _what_ we do as software engineers, we need to evolve and revolutionize _how_ we do it.  Two tools that we have to improve the design and implementation of the code that we write are pair programming and test driven development.
