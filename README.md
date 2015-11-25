@@ -28,7 +28,7 @@ $ ./gradlew build
 $ ./gradlew idea
 ```
 
-Once we've seen a live performance of Pair Programming and TDD, everyone will have an opportunity to try pair programming and TDD for themselves.  In my GitHub repository there is the skeleton of a Java project that can be used to implement a program that calculates the [score of a game of tennis](http://codingdojo.org/cgi-bin/index.pl?KataTennis%5D).
+Once we've seen a live performance of Pair Programming and TDD, everyone will have an opportunity to try pair programming and TDD for themselves.  In my GitHub repository there is the skeleton of a Java project that can be used to implement a program that calculates the [score of a game of tennis](http://codingdojo.org/cgi-bin/index.pl?KataTennis).
 
 ```
 $ cd PairingAndTddNov2015/TennisScoreKata
